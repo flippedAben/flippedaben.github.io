@@ -24,9 +24,9 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "about"
     href:           "/about/"
-  - name:           "Download"
+  - name:           "github"
     href:           "https://github.com/flippedAben/"
 
 # Sass

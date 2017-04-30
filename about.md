@@ -3,6 +3,10 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+I am Benjamin Yang, a guy who is trying to be well rounded. My hobbies are
+weightlifting, doing mathematics, playing alto saxophone, listening to music
+with no distractions, Tukong Musool, playing League of Legends, and solving
+problems with code.
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+The blog runs with the following theme. Kiko is simple, lightweight theme. It's
+designed and developed by [@gfjaru](https://twitter.com/gfjaru).
