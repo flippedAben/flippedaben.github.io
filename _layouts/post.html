@@ -11,5 +11,8 @@ layout: default
   <div class="post-date">
     <time>{{ page.date | date_to_string }}</time>
   </div>
+  <div class="post-categories">
+    <strong>categories</strong> {{page.categories | join: ' '}}
+  </div>
   {{ content }}
 </div>
