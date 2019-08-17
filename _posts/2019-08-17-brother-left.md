@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: thoughts
 title: Brother left
 ---
 
