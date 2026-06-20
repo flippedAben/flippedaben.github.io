@@ -108,6 +108,15 @@ export const Setlist: Song[] = [
     arranged: true,
     soloists: ["Thomas", "Brian", "All trade 4s"],
   },
+  {
+    game: "Final Fantasy VII",
+    name: "Tifa's Theme",
+    videoLink: "https://www.youtube.com/watch?v=cO_ftxA28Y8",
+    videoStyle: "Original",
+    sheetMusicLink:
+      "https://drive.google.com/drive/folders/1grSwc9T8W-KhsQ1Ke7Qmbo1hmsxKcLbl",
+    arranged: true,
+  },
 ];
 
 export const JamSongs: Song[] = [
@@ -197,15 +206,6 @@ export const JamSongs: Song[] = [
     videoStyle: "Original",
     sheetMusicLink:
       "https://drive.google.com/drive/folders/1qmwvRJHjK6IOrFF7IiSFeXy-cCyC5KZR?usp=sharing",
-    arranged: true,
-  },
-  {
-    game: "Final Fantasy VII",
-    name: "Tifa's Theme",
-    videoLink: "https://www.youtube.com/watch?v=cO_ftxA28Y8",
-    videoStyle: "Original",
-    sheetMusicLink:
-      "https://drive.google.com/drive/folders/1grSwc9T8W-KhsQ1Ke7Qmbo1hmsxKcLbl",
     arranged: true,
   },
   {
